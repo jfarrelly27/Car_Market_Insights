@@ -1,4 +1,6 @@
-# Car_Market_Insights
+# Vehicle Market Insights
+![R](https://img.shields.io/static/v1?message=R&logo=R&labelColor=276DC3&color=276DC3&logoColor=white&label=%20&style=for-the-badge)
+
 **Car Data Collection, Analysis and Insights about the US car market, including price trends, recalls, brand popularity. etc.**
 This project aims to analyze various aspects of the automotive market in the United States, focusing on price trends, the impact of mileage on vehicle prices, the popularity of car brands, and the frequency of recalls. The analysis provides insights into the dynamics of the car market, crucial for consumers, manufacturers, and market researchers.
 
