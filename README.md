@@ -13,7 +13,7 @@ The data for this project is sourced from two primary datasets:
    
    - **Data Source**: [Kaggle - USA Cars Dataset](https://www.kaggle.com/datasets/abhishekbagwan/usa-cars-datasets)
 
-2. **NHTSA vPIC API**: A database from the United States Department of Transportation providing extensive vehicle specifications, including recall information.
+2. **NHTSA vPIC API**: A database from the United States Department of Transportation API providing extensive vehicle specifications, including recall information.
 
    - **Data Source**: [NHTSA vPIC API](https://vpic.nhtsa.dot.gov/api/)
 
